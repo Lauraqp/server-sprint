@@ -1,0 +1,206 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Juan David",
+        "phone": 3052274541,
+        "password": 2546,
+        "image": "/images/juan david.jpg",
+        "flag": true,
+        "phrase": "El verdadero fracaso es no intentarlo",
+        "date_hour": "29/09/2022 8:45pm"
+      },
+      {
+        "id": 2,
+        "name": "Claudia",
+        "phone": 3002740515,
+        "password": 3345,
+        "image": "/images/claudia.jpg",
+        "flag": false,
+        "phrase": "Somos lo que dejamos en el corazón de las personas",
+        "date_hour": "29/09/2022 8:45pm"
+      },
+      {
+        "id": 3,
+        "name": "Ingrid",
+        "phone": 3012859408,
+        "password": 5500,
+        "image": "/images/ingrid.jpg",
+        "flag": false,
+        "phrase": "No llamadas",
+        "date_hour": "29/09/2022 8:45pm"
+      },
+      {
+        "id": 4,
+        "name": "Ruben",
+        "phone": 3007745896,
+        "password": 1234,
+        "image": "/images/ruben.jpg",
+        "flag": false,
+        "phrase": "",
+        "date_hour": "29/09/2022 8:45pm"
+      },
+      {
+        "phone": "3052274541",
+        "passWord": "2456",
+        "id": 5
+      }
+    ],
+    "messagess": [
+      {
+        "idUser1": 1,
+        "idUser2": 2,
+        "conversation": [
+          {
+            "sendBy": 1,
+            "message": "Hola Claudia",
+            "visto": true
+          },
+          {
+            "sendBy": 2,
+            "message": "Hola Juan David",
+            "visto": false
+          },
+          {
+            "sendBy": 1,
+            "message": "Comó estás?",
+            "visto": false
+          },
+          {
+            "sendBy": 2,
+            "message": "Muy bien y tu?",
+            "visto": false
+          },
+          {
+            "sendBy": 1,
+            "message": "Ah muy bien",
+            "visto": false
+          },
+          {
+            "sendBy": 1,
+            "message": "¿Qué haces?",
+            "visto": false
+          },
+          {
+            "sendBy": 2,
+            "message": "Saldré hoy con unos amigos, y tu?",
+            "visto": false
+          },
+          {
+            "sendBy": 1,
+            "message": "Creo que estaré hoy en casa",
+            "visto": false
+          },
+          {
+            "sendBy": 2,
+            "message": "¿Quisieras salir con nosotros hoy?",
+            "visto": false
+          },
+          {
+            "sendBy": 1,
+            "message": "Dale, a que hora sería?",
+            "visto": false
+          },
+          {
+            "sendBy": 2,
+            "message": "Nos encontraremos en el Poblado a las 7:30",
+            "visto": false
+          },
+          {
+            "sendBy": 1,
+            "message": "Está bien, o si quieres puedo pasar por ti",
+            "visto": false
+          },
+          {
+            "sendBy": 1,
+            "message": "Ah mucho mejor",
+            "visto": false
+          }
+        ]
+      },
+      {
+        "idUser1": 3,
+        "idUser2": 1,
+        "conversation": [
+          {
+            "sendBy": 3,
+            "message": "Juanda hola, como estás?",
+            "visto": true
+          },
+          {
+            "sendBy": 1,
+            "message": "Bien ingrid y tu?",
+            "visto": true
+          },
+          {
+            "sendBy": 3,
+            "message": "Bien juanda, ¿cuándo nos reuniremos para realizar el trabajo final?",
+            "visto": true
+          },
+          {
+            "sendBy": 1,
+            "message": "Ingrid pues yo podría el sábado a partir de las 4:00 pm, podrías a esa hora?",
+            "visto": true
+          },
+          {
+            "sendBy": 3,
+            "message": "No, el sábado trabajo, te parece bien el lunes en la mañana?",
+            "visto": true
+          },
+          {
+            "sendBy": 1,
+            "message": "podrías el lunes a partir de las 11:00 am, está bien?",
+            "visto": true
+          },
+          {
+            "sendBy": 3,
+            "message": "",
+            "visto": true
+          }
+        ]
+      },
+      {
+        "idUser1": 3,
+        "idUser2": 2,
+        "conversation": [
+          {
+            "sendBy": 3,
+            "message": "Hola Claudia",
+            "visto": true
+          },{
+            "sendBy": 2,
+            "message": "Doctora Ingrid buenas tardes, ¿cómo ha estado?",
+            "visto": true
+          },{
+            "sendBy": 3,
+            "message": "Muy bien gracias y usted?",
+            "visto": true
+          },{
+            "sendBy": 2,
+            "message": "Ah muy bien gracias a Dios, justo me iba a comunicar con usted",
+            "visto": true
+          },{
+            "sendBy": 3,
+            "message": "Si, el motivo por el cúal le escribo es para indicarle que la cita quedará aplazada",
+            "visto": true
+          },{
+            "sendBy": 2,
+            "message": "y eso doctora?",
+            "visto": true
+          },{
+            "sendBy": 3,
+            "message": "En el hospital van a estar realizando unos cambios entonces estaremos en una asamblea por 3 días",
+            "visto": true
+          },{
+            "sendBy": 2,
+            "message": "Ah bueno doctora, estaré entonces muy pendiente para la reasignación de la cita, muchas gracias.",
+            "visto": true
+          },{
+            "sendBy": 3,
+            "message": "Gracias a usted por su comprensión, que tenga un buen día.",
+            "visto": true
+          }
+        ]
+      }
+    ]
+  }
