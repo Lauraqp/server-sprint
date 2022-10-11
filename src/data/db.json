@@ -54,66 +54,79 @@
           {
             "sendBy": 1,
             "message": "Hola Claudia",
+            "hour":"8:50 am",
             "visto": true
           },
           {
             "sendBy": 2,
             "message": "Hola Juan David",
+            "hour":"8:55 am",
             "visto": false
           },
           {
             "sendBy": 1,
             "message": "Comó estás?",
+            "hour":"9:10 am",
             "visto": false
           },
           {
             "sendBy": 2,
             "message": "Muy bien y tu?",
+            "hour":"9:15 am",
             "visto": false
           },
           {
             "sendBy": 1,
             "message": "Ah muy bien",
+            "hour":"9: 20 am",
             "visto": false
           },
           {
             "sendBy": 1,
             "message": "¿Qué haces?",
+            "hour":"9:28 am",
             "visto": false
           },
           {
             "sendBy": 2,
             "message": "Saldré hoy con unos amigos, y tu?",
+            "hour":"9:30 am",
             "visto": false
           },
           {
             "sendBy": 1,
             "message": "Creo que estaré hoy en casa",
+            "hour":"9:32 am",
             "visto": false
           },
           {
             "sendBy": 2,
             "message": "¿Quisieras salir con nosotros hoy?",
+            "hour":"9:35 am",
             "visto": false
           },
           {
             "sendBy": 1,
             "message": "Dale, a que hora sería?",
+            "hour":"9:40 am",
             "visto": false
           },
           {
             "sendBy": 2,
             "message": "Nos encontraremos en el Poblado a las 7:30",
+            "hour":"9:45 am",
             "visto": false
           },
           {
             "sendBy": 1,
             "message": "Está bien, o si quieres puedo pasar por ti",
+            "hour":"9:50 am",
             "visto": false
           },
           {
             "sendBy": 1,
             "message": "Ah mucho mejor",
+            "hour":"9:52 am",
             "visto": false
           }
         ]
@@ -125,36 +138,43 @@
           {
             "sendBy": 3,
             "message": "Juanda hola, como estás?",
+            "hour":"5:10 pm",
             "visto": true
           },
           {
             "sendBy": 1,
             "message": "Bien ingrid y tu?",
+            "hour":"5:15 pm",
             "visto": true
           },
           {
             "sendBy": 3,
             "message": "Bien juanda, ¿cuándo nos reuniremos para realizar el trabajo final?",
+            "hour":"5:20 pm",
             "visto": true
           },
           {
             "sendBy": 1,
             "message": "Ingrid pues yo podría el sábado a partir de las 4:00 pm, podrías a esa hora?",
+            "hour":"5:25 pm",
             "visto": true
           },
           {
             "sendBy": 3,
             "message": "No, el sábado trabajo, te parece bien el lunes en la mañana?",
+            "hour":"5:30 pm",
             "visto": true
           },
           {
             "sendBy": 1,
             "message": "podrías el lunes a partir de las 11:00 am, está bien?",
+            "hour":"5:35 pm",
             "visto": true
           },
           {
             "sendBy": 3,
-            "message": "",
+            "message": "Sí, el lunes está bien",
+            "hour":"5:40 pm",
             "visto": true
           }
         ]
@@ -166,38 +186,47 @@
           {
             "sendBy": 3,
             "message": "Hola Claudia",
+            "hour":"6:00 am",
             "visto": true
           },{
             "sendBy": 2,
             "message": "Doctora Ingrid buenas tardes, ¿cómo ha estado?",
+            "hour":"6:02 am",
             "visto": true
           },{
             "sendBy": 3,
             "message": "Muy bien gracias y usted?",
+            "hour":"6:05 am",
             "visto": true
           },{
             "sendBy": 2,
             "message": "Ah muy bien gracias a Dios, justo me iba a comunicar con usted",
+            "hour":"6:10 am",
             "visto": true
           },{
             "sendBy": 3,
             "message": "Si, el motivo por el cúal le escribo es para indicarle que la cita quedará aplazada",
+            "hour":"6:12 am",
             "visto": true
           },{
             "sendBy": 2,
             "message": "y eso doctora?",
+            "hour":"6:15 am",
             "visto": true
           },{
             "sendBy": 3,
             "message": "En el hospital van a estar realizando unos cambios entonces estaremos en una asamblea por 3 días",
+            "hour":"6:20 am",
             "visto": true
           },{
             "sendBy": 2,
             "message": "Ah bueno doctora, estaré entonces muy pendiente para la reasignación de la cita, muchas gracias.",
+            "hour":"6:25 am",
             "visto": true
           },{
             "sendBy": 3,
             "message": "Gracias a usted por su comprensión, que tenga un buen día.",
+            "hour":"6:30 am",
             "visto": true
           }
         ]
